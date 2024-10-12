@@ -1,0 +1,31 @@
+supplierid,name,email,contact_person,domain
+1,Apple,contact@apple.com,"Tim Cook",Electronics
+2,Samsung,contact@samsung.com,"Kim Hyun-suk",Electronics
+3,Sony,contact@sony.com,"Kenichiro Yoshida",Electronics
+4,Microsoft,contact@microsoft.com,"Satya Nadella",Software
+5,Dell,contact@dell.com,"Michael Dell",Computers
+6,HP,contact@hp.com,"Enrique Lores",Computers
+7,Lenovo,contact@lenovo.com,"Yang Yuanqing",Computers
+8,Asus,contact@asus.com,"Samson Hu",Computers
+9,Acer,contact@acer.com,"Jason Chen",Computers
+10,Intel,contact@intel.com,"Pat Gelsinger",Semiconductors
+11,AMD,contact@amd.com,"Lisa Su",Semiconductors
+12,Nvidia,contact@nvidia.com,"Jensen Huang",Semiconductors
+13,Google,contact@google.com,"Sundar Pichai",Software
+14,Amazon,contact@amazon.com,"Andy Jassy",E-commerce
+15,Huawei,contact@huawei.com,"Ren Zhengfei",Electronics
+16,Xiaomi,contact@xiaomi.com,"Lei Jun",Electronics
+17,Oppo,contact@oppo.com,"Tony Chen",Electronics
+18,Vivo,contact@vivo.com,"Shen Wei",Electronics
+19,LG,contact@lg.com,"Kwon Bong-seok",Electronics
+20,Panasonic,contact@panasonic.com,"Kazuhiro Tsuga",Electronics
+21,Philips,contact@philips.com,"Frans van Houten",Healthcare
+22,Toshiba,contact@toshiba.com,"Nobuaki Kurumatani",Electronics
+23,Sharp,contact@sharp.com,"Tai Jeng-wu",Electronics
+24,OnePlus,contact@oneplus.com,"Pete Lau",Electronics
+25,Cisco,contact@cisco.com,"Chuck Robbins",Networking
+26,IBM,contact@ibm.com,"Arvind Krishna",Software
+27,Oracle,contact@oracle.com,"Safra Catz",Software
+28,SAP,contact@sap.com,"Christian Klein",Software
+29,Salesforce,contact@salesforce.com,"Marc Benioff",Software
+30,Adobe,contact@adobe.com,"Shantanu Narayen",Software

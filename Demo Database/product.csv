@@ -1,0 +1,60 @@
+productid,name,description,quantity,supplierid,category,price
+1,"iPhone 13","Apple iPhone 13 Pro Max",284,1,Smartphones,23456.78
+2,"MacBook Air","Apple MacBook Air M1",30,1,Laptops,56749.78
+3,"Galaxy S21","Samsung Galaxy S21 Ultra 5G",40,2,Smartphones,19876.45
+4,"Galaxy Tab S7","Samsung Galaxy Tab S7+",20,2,Tablets,45678.9
+5,"Xperia 5 III","Sony Xperia 5 III",35,3,Smartphones,34567.89
+6,"PlayStation 5","Sony PlayStation 5",25,3,"Gaming Consoles",65987.32
+7,"Surface Pro 7","Microsoft Surface Pro 7",30,4,Tablets,98765.43
+8,"Xbox Series X","Microsoft Xbox Series X",20,4,"Gaming Consoles",54987.65
+9,"Alienware X17","Dell Alienware X17 Gaming Laptop",15,5,"Gaming Laptops",78954.32
+10,"Dell XPS 15","Dell XPS 15 Laptop",25,5,Laptops,45678.9
+11,"Pavilion 15","HP Pavilion 15 Laptop",118,6,Laptops,34567.89
+12,"HP Spectre x360","HP Spectre x360 Convertible Laptop",115,6,Laptops,98765.43
+13,"ThinkPad X1 Carbon","Lenovo ThinkPad X1 Carbon",99,7,Laptops,23456.78
+14,"Legion 5 Pro","Lenovo Legion 5 Pro Gaming Laptop",76,7,"Gaming Laptops",67890.12
+15,"ZenBook 14","Asus ZenBook 14 Laptop",82,8,Laptops,78954.32
+16,"ROG Strix Scar","Asus ROG Strix Scar Gaming Laptop",53,8,"Gaming Laptops",45678.9
+17,"Nitro 5","Acer Nitro 5 Gaming Laptop",74,9,"Gaming Laptops",34567.89
+18,"Swift 3","Acer Swift 3 Laptop",124,9,Laptops,98765.43
+19,"Core i9-11900K","Intel Core i9-11900K Processor",142,10,Processors,23456.78
+20,"Ryzen 9 5900X","AMD Ryzen 9 5900X Processor",110,11,Processors,56789.01
+21,"GeForce RTX 3080","Nvidia GeForce RTX 3080 Graphics Card",105,12,"Graphics Cards",87654.32
+22,"Radeon RX 6800 XT","AMD Radeon RX 6800 XT Graphics Card",60,11,"Graphics Cards",78901.23
+23,"HomePod mini","Apple HomePod mini",165,1,"Audio Devices",9876.54
+24,"Galaxy Buds Live","Samsung Galaxy Buds Live",80,2,"Audio Devices",4567.89
+25,WH-XB900N,"Sony WH-XB900N Wireless Headphones",94,3,"Audio Devices",2345.67
+26,"Surface Earbuds","Microsoft Surface Earbuds",100,4,"Audio Devices",9876.54
+27,"Alienware AW3420DW","Dell Alienware AW3420DW Gaming Monitor",77,5,Monitors,23456.78
+28,"OMEN X 27","HP OMEN X 27 Gaming Monitor",81,6,Monitors,5678.9
+29,"ROG Strix XG279Q","Asus ROG Strix XG279Q Gaming Monitor",102,8,Monitors,9876.54
+30,"Nitro XV272U","Acer Nitro XV272U Gaming Monitor",64,9,Monitors,12345.67
+31,"iPad Pro","Apple iPad Pro 12.9"",78,1,Tablets,45678.9
+33,"Xperia 10 III","Sony Xperia 10 III",130,3,Smartphones,23456.78
+34,"Surface Go 2","Microsoft Surface Go 2",120,4,Tablets,7890.12
+35,"Inspiron 15","Dell Inspiron 15 Laptop",142,5,Laptops,98765.43
+36,"Envy 17","HP Envy 17 Laptop",108,6,Laptops,87654.32
+37,"ThinkPad E14","Lenovo ThinkPad E14 Laptop",61,7,Laptops,78901.23
+38,"VivoBook 15","Asus VivoBook 15 Laptop",121,8,Laptops,45678.9
+39,"Acer Chromebook Spin 713","Acer Chromebook Spin 713",68,9,Laptops,34567.89
+40,"Core i7-11700K","Intel Core i7-11700K Processor",134,10,Processors,9876.54
+41,"Ryzen 7 5800X","AMD Ryzen 7 5800X Processor",127,11,Processors,23456.78
+42,"GeForce RTX 3070","Nvidia GeForce RTX 3070 Graphics Card",132,12,"Graphics Cards",7890.12
+43,"Radeon RX 6700 XT","AMD Radeon RX 6700 XT Graphics Card",61,11,"Graphics Cards",8765.43
+44,"AirPods Pro","Apple AirPods Pro",98,1,"Audio Devices",34567.89
+45,"Galaxy Buds Pro","Samsung Galaxy Buds Pro",116,2,"Audio Devices",5678.9
+46,WH-1000XM4,"Sony WH-1000XM4 Wireless Headphones",135,3,"Audio Devices",9876.54
+47,"Surface Headphones 2","Microsoft Surface Headphones 2",99,4,"Audio Devices",23456.78
+48,"Alienware AW2521HF","Dell Alienware AW2521HF Gaming Monitor",50,5,Monitors,5678.9
+49,"HP X24ih","HP X24ih Gaming Monitor",119,6,Monitors,7890.12
+50,"ROG Swift PG279QM","Asus ROG Swift PG279QM Gaming Monitor",84,8,Monitors,9876.54
+51,"Nitro XV272U","Acer Nitro XV272U Gaming Monitor",124,9,Monitors,2345.67
+52,"iPad Air","Apple iPad Air",109,1,Tablets,45678.9
+53,"Galaxy Tab S6 Lite","Samsung Galaxy Tab S6 Lite",135,2,Tablets,5678.9
+54,"Xperia 1 III","Sony Xperia 1 III",72,3,Smartphones,23456.78
+55,"Surface Laptop Go","Microsoft Surface Laptop Go",85,4,Laptops,7890.12
+56,"G5 15","Dell G5 15 Gaming Laptop",92,5,"Gaming Laptops",87654.32
+57,"Pavilion x360","HP Pavilion x360 Convertible Laptop",73,6,Laptops,98765.43
+58,"ThinkPad L14","Lenovo ThinkPad L14 Laptop",124,7,Laptops,23456.78
+59,"VivoBook Flip 14","Asus VivoBook Flip 14 Laptop",88,8,Laptops,45678.9
+60,"Spin 3","Acer Spin 3 Laptop",130,9,Laptops,7890.12
