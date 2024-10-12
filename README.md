@@ -95,4 +95,4 @@ Once the server is running, you can access the various API endpoints to manage c
 - Adding an analytics dashboard for key business metrics.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under Satwik Kashyap.
